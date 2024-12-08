@@ -1,0 +1,813 @@
+product_id,product_name,price,cogs,category_id
+1,Nerf Elite Blaster,377.67,202.96,5
+2,Barbie Dreamhouse,950.96,738.19,5
+3,Sony Alpha Camera,733.33,558.04,1
+4,Adidas T-Shirt,600.67,393.83,2
+5,Oral-B Electric Toothbrush,160.24,108.54,6
+6,Dove Shampoo,160.21,99.28,6
+7,iPhone 14,62.79,32.43,1
+8,Sapiens: A Brief History of Humankind,866.85,520.59,4
+9,Apple Watch Series 8,603.11,446.82,1
+10,The Hobbit,709.53,355.75,4
+11,The Great Gatsby,25.48,15.29,4
+12,Tefal Non-Stick Pan,970.06,600.9,3
+13,Bose Sleepbuds,833.28,550.98,6
+14,Fisher-Price Learning Table,216.28,167.82,5
+15,The Hobbit,185.92,112.28,4
+16,KitchenAid Stand Mixer,187.49,113.26,3
+17,Dove Shampoo,307.72,221.94,6
+18,Fisher-Price Learning Table,527.13,335.08,5
+19,The Hobbit,434.79,246.69,4
+20,Sapiens: A Brief History of Humankind,294.77,187.39,4
+21,iPhone 14,613.79,332.83,1
+22,Sony Alpha Camera,143.8,79.51,1
+23,Fitbit Inspire 2,295.68,192.05,6
+24,Hot Wheels Track Set,369.53,231.21,5
+25,Sapiens: A Brief History of Humankind,458.79,355.31,4
+26,Fitbit Inspire 2,786.25,478.6,6
+27,Fitbit Inspire 2,203.68,137.32,6
+28,Uniqlo Down Jacket,516.66,356.33,2
+29,Sony WH-1000XM5,594.45,299.56,1
+30,Play-Doh Fun Factory,51.22,35.81,5
+31,Harry Potter and the Sorcerer's Stone,609.51,337.31,4
+32,Philips Sonicare Toothbrush,174.67,137.7,6
+33,Harry Potter and the Sorcerer's Stone,69.73,37.97,4
+34,Gap Sweatshirt,949.14,592.63,2
+35,Fisher-Price Learning Table,965.8,507.63,5
+36,Fitbit Inspire 2,809.36,646.73,6
+37,Sapiens: A Brief History of Humankind,308.09,200.46,4
+38,GoPro HERO10,102.18,69.34,1
+39,Puma Hoodie,685.81,356.71,2
+40,Fisher-Price Learning Table,442.95,321.13,5
+41,Gap Sweatshirt,126.43,71.18,2
+42,Dell XPS 13,497.7,382.94,1
+43,Hot Wheels Track Set,39.22,22.02,5
+44,Nike Air Max,909.77,506.93,2
+45,Nespresso Coffee Machine,262.49,134.12,3
+46,Sony Alpha Camera,664.21,426.17,1
+47,GoPro HERO10,315.15,210.98,1
+48,Sony WH-1000XM5,522.47,271.53,1
+49,Cuisinart Blender,548.98,402.21,3
+50,Tefal Non-Stick Pan,188.93,120.16,3
+51,The Hobbit,969.74,637.43,4
+52,Bose Sleepbuds,776.26,490.77,6
+53,Puma Hoodie,939.8,582.89,2
+54,The Great Gatsby,895.35,598.0,4
+55,H&M Dress,599.91,327.89,2
+56,Oral-B Electric Toothbrush,922.26,511.47,6
+57,Nespresso Coffee Machine,93.05,70.58,3
+58,Oral-B Electric Toothbrush,200.0,156.77,6
+59,KitchenAid Stand Mixer,50.0,30.6,3
+60,Dove Shampoo,328.7,191.05,6
+61,The Catcher in the Rye,391.73,271.55,4
+62,Rubik's Cube,274.99,171.21,5
+63,Sapiens: A Brief History of Humankind,829.59,421.11,4
+64,Gap Sweatshirt,359.97,196.85,2
+65,1984 by George Orwell,284.53,203.38,4
+66,Sony WH-1000XM5,544.98,380.22,1
+67,Nike Air Max,145.22,73.79,2
+68,Dove Shampoo,803.19,455.08,6
+69,Adidas T-Shirt,79.18,45.08,2
+70,Fisher-Price Learning Table,986.95,692.41,5
+71,Dyson Vacuum Cleaner,773.38,391.26,3
+72,Olaplex Hair Perfector,202.72,107.69,6
+73,Gap Sweatshirt,10.49,7.76,2
+74,Oral-B Electric Toothbrush,816.38,451.92,6
+75,Philips Sonicare Toothbrush,708.32,492.87,6
+76,Olaplex Hair Perfector,730.36,417.37,6
+77,IKEA Dining Set,772.41,409.25,3
+78,Harry Potter and the Sorcerer's Stone,78.67,45.07,4
+79,Oral-B Electric Toothbrush,361.67,259.2,6
+80,JBL Bluetooth Speaker,120.29,91.02,1
+81,Hot Wheels Track Set,863.79,647.04,5
+82,Tefal Non-Stick Pan,625.18,387.08,3
+83,Under Armour Shorts,334.24,234.11,2
+84,Cuisinart Blender,68.24,38.32,3
+85,Nike Air Max,314.43,184.87,2
+86,Instant Pot Duo,328.56,252.63,3
+87,Uniqlo Down Jacket,730.96,368.33,2
+88,Oral-B Electric Toothbrush,639.37,336.09,6
+89,The Catcher in the Rye,887.78,499.26,4
+90,Zara Slim Fit Blazer,474.85,241.2,2
+91,Gap Sweatshirt,124.0,68.75,2
+92,JBL Bluetooth Speaker,714.68,482.35,1
+93,Adidas T-Shirt,761.98,477.33,2
+94,Sony Alpha Camera,563.47,432.63,1
+95,Nerf Elite Blaster,772.11,575.4,5
+96,Fitbit Inspire 2,496.33,299.06,6
+97,Sony WH-1000XM5,525.12,303.43,1
+98,Sapiens: A Brief History of Humankind,430.4,264.23,4
+99,Fitbit Inspire 2,30.29,20.51,6
+100,Sony WH-1000XM5,112.35,65.21,1
+101,Nivea Body Lotion,36.27,24.93,6
+102,Oral-B Electric Toothbrush,638.23,397.5,6
+103,Gillette Razor,317.78,211.52,6
+104,Rubik's Cube,511.03,322.38,5
+105,The Great Gatsby,908.03,534.23,4
+106,Instant Pot Duo,253.05,198.53,3
+107,Philips Air Fryer,413.33,301.35,3
+108,Sony WH-1000XM5,756.77,410.2,1
+109,Oral-B Electric Toothbrush,232.65,176.94,6
+110,Samsung Galaxy S22,81.6,52.73,1
+111,Nerf Elite Blaster,293.3,225.36,5
+112,Fisher-Price Learning Table,165.42,122.4,5
+113,Adidas T-Shirt,930.05,583.67,2
+114,Rubik's Cube,809.08,409.99,5
+115,Adidas T-Shirt,635.24,368.82,2
+116,Harry Potter and the Sorcerer's Stone,872.1,577.76,4
+117,JBL Bluetooth Speaker,804.65,555.24,1
+118,Sapiens: A Brief History of Humankind,190.64,110.07,4
+119,Fisher-Price Learning Table,893.1,483.89,5
+120,The Great Gatsby,541.65,406.5,4
+121,To Kill a Mockingbird,808.4,642.94,4
+122,1984 by George Orwell,896.61,589.71,4
+123,Barbie Dreamhouse,321.41,177.26,5
+124,Dove Shampoo,114.5,66.6,6
+125,The Catcher in the Rye,231.8,117.18,4
+126,Uniqlo Down Jacket,429.97,332.92,2
+127,LEGO Star Wars Set,818.92,438.39,5
+128,The Catcher in the Rye,861.43,579.7,4
+129,Fitbit Inspire 2,11.92,6.94,6
+130,Rubik's Cube,513.19,341.91,5
+131,KitchenAid Stand Mixer,420.32,292.3,3
+132,Gillette Razor,226.0,169.26,6
+133,Zara Slim Fit Blazer,124.27,69.83,2
+134,The Great Gatsby,340.93,171.59,4
+135,Philips Air Fryer,943.2,510.33,3
+136,KitchenAid Stand Mixer,326.59,251.48,3
+137,Rubik's Cube,521.2,397.24,5
+138,Dyson Vacuum Cleaner,704.5,478.51,3
+139,Adidas T-Shirt,366.81,249.49,2
+140,Nike Air Max,971.92,679.87,2
+141,Sony Alpha Camera,962.64,531.97,1
+142,Adidas T-Shirt,255.52,197.86,2
+143,Bose Sleepbuds,499.76,312.67,6
+144,Philips Air Fryer,304.37,187.17,3
+145,Under Armour Shorts,288.42,189.11,2
+146,Nerf Elite Blaster,41.7,21.44,5
+147,MacBook Air,611.52,336.27,1
+148,Nespresso Coffee Machine,505.17,364.43,3
+149,iPhone 14,56.22,29.51,1
+150,Instant Pot Duo,282.25,192.2,3
+151,Fisher-Price Learning Table,908.72,521.25,5
+152,Samsung Galaxy S22,243.36,150.1,1
+153,The Great Gatsby,149.17,87.5,4
+154,Nivea Body Lotion,492.01,298.5,6
+155,Olaplex Hair Perfector,985.72,705.49,6
+156,Philips Air Fryer,245.84,144.83,3
+157,1984 by George Orwell,673.77,451.37,4
+158,Apple Watch Series 8,762.81,490.35,1
+159,Sapiens: A Brief History of Humankind,241.45,168.8,4
+160,Harry Potter and the Sorcerer's Stone,729.58,569.84,4
+161,JBL Bluetooth Speaker,370.94,266.99,1
+162,LEGO Star Wars Set,634.14,357.96,5
+163,1984 by George Orwell,635.36,323.62,4
+164,Sapiens: A Brief History of Humankind,538.1,311.39,4
+165,Nerf Elite Blaster,94.84,64.35,5
+166,1984 by George Orwell,836.13,430.96,4
+167,The Catcher in the Rye,324.18,210.36,4
+168,Sapiens: A Brief History of Humankind,190.59,129.42,4
+169,Oral-B Electric Toothbrush,45.57,27.35,6
+170,Adidas T-Shirt,592.94,433.6,2
+171,Nerf Elite Blaster,679.18,361.31,5
+172,Harry Potter and the Sorcerer's Stone,21.5,11.23,4
+173,Fitbit Inspire 2,514.53,369.67,6
+174,Hot Wheels Track Set,230.36,149.42,5
+175,Tefal Non-Stick Pan,646.95,457.08,3
+176,IKEA Dining Set,178.49,112.53,3
+177,Sapiens: A Brief History of Humankind,692.48,397.43,4
+178,Nivea Body Lotion,389.8,290.69,6
+179,Fitbit Inspire 2,937.05,693.25,6
+180,Fisher-Price Learning Table,141.83,100.47,5
+181,LEGO Star Wars Set,344.36,200.29,5
+182,Bose Sleepbuds,117.91,79.83,6
+183,Play-Doh Fun Factory,925.07,562.71,5
+184,Dove Shampoo,877.95,463.1,6
+185,Zara Slim Fit Blazer,261.65,202.83,2
+186,Dove Shampoo,661.68,358.0,6
+187,Philips Air Fryer,818.14,642.3,3
+188,Hot Wheels Track Set,557.42,353.29,5
+189,Oral-B Electric Toothbrush,532.0,295.55,6
+190,Olaplex Hair Perfector,245.64,162.75,6
+191,Barbie Dreamhouse,97.64,74.39,5
+192,Puma Hoodie,897.73,646.07,2
+193,Zara Slim Fit Blazer,900.92,668.45,2
+194,LEGO Star Wars Set,634.94,442.96,5
+195,Dell XPS 13,342.33,242.26,1
+196,Rubik's Cube,352.46,266.02,5
+197,Hot Wheels Track Set,727.33,418.14,5
+198,Nike Air Max,897.62,580.61,2
+199,Levi’s 501 Jeans,887.65,502.73,2
+200,Play-Doh Fun Factory,780.98,621.89,5
+201,Monopoly Board Game,643.82,504.25,5
+202,Play-Doh Fun Factory,88.72,45.41,5
+203,Adidas T-Shirt,165.82,118.01,2
+204,Hot Wheels Track Set,899.06,699.09,5
+205,Play-Doh Fun Factory,608.4,337.16,5
+206,The Hobbit,14.15,9.49,4
+207,GoPro HERO10,105.96,82.08,1
+208,IKEA Dining Set,665.18,339.36,3
+209,MacBook Air,10.04,7.12,1
+210,1984 by George Orwell,165.0,97.22,4
+211,Philips Air Fryer,550.99,428.29,3
+212,Rubik's Cube,693.44,548.73,5
+213,The Great Gatsby,653.7,512.03,4
+214,Rubik's Cube,228.15,146.53,5
+215,Zara Slim Fit Blazer,713.62,541.36,2
+216,Oral-B Electric Toothbrush,241.06,181.61,6
+217,1984 by George Orwell,328.77,195.86,4
+218,Gap Sweatshirt,747.76,559.83,2
+219,Sapiens: A Brief History of Humankind,651.38,332.92,4
+220,Sapiens: A Brief History of Humankind,849.98,577.04,4
+221,Uniqlo Down Jacket,659.32,375.15,2
+222,KitchenAid Stand Mixer,570.47,305.87,3
+223,iPhone 14,98.21,51.37,1
+224,Play-Doh Fun Factory,370.88,262.91,5
+225,The Catcher in the Rye,268.88,161.86,4
+226,Rubik's Cube,247.77,177.76,5
+227,Bose Sleepbuds,973.15,505.66,6
+228,Adidas T-Shirt,396.13,235.53,2
+229,Rubik's Cube,892.59,590.76,5
+230,Under Armour Shorts,632.98,466.64,2
+231,Monopoly Board Game,795.84,474.02,5
+232,JBL Bluetooth Speaker,505.12,347.41,1
+233,iPhone 14,579.02,443.41,1
+234,Sony WH-1000XM5,495.06,339.0,1
+235,Apple Watch Series 8,199.27,113.56,1
+236,Apple Watch Series 8,723.84,367.22,1
+237,Samsung Galaxy S22,284.37,216.41,1
+238,Uniqlo Down Jacket,29.19,14.78,2
+239,The Great Gatsby,647.24,493.46,4
+240,LEGO Star Wars Set,181.23,119.37,5
+241,Dell XPS 13,940.76,735.41,1
+242,Zara Slim Fit Blazer,954.16,705.73,2
+243,Uniqlo Down Jacket,915.29,731.66,2
+244,Levi’s 501 Jeans,373.31,225.93,2
+245,To Kill a Mockingbird,20.38,14.88,4
+246,Rubik's Cube,928.68,576.32,5
+247,To Kill a Mockingbird,431.04,277.57,4
+248,Dyson Vacuum Cleaner,966.82,665.42,3
+249,Under Armour Shorts,963.8,734.52,2
+250,IKEA Dining Set,853.74,678.92,3
+251,Olaplex Hair Perfector,297.98,217.67,6
+252,Samsung Galaxy S22,388.17,242.73,1
+253,JBL Bluetooth Speaker,851.88,533.62,1
+254,To Kill a Mockingbird,320.34,231.05,4
+255,Hot Wheels Track Set,173.65,99.26,5
+256,Cuisinart Blender,559.02,298.04,3
+257,Hot Wheels Track Set,936.47,567.86,5
+258,1984 by George Orwell,697.55,408.88,4
+259,Dell XPS 13,572.21,336.97,1
+260,Hot Wheels Track Set,101.69,57.97,5
+261,Monopoly Board Game,616.93,316.26,5
+262,Samsung Galaxy S22,990.1,500.36,1
+263,Tefal Non-Stick Pan,144.38,114.97,3
+264,Dell XPS 13,520.74,327.2,1
+265,Monopoly Board Game,877.99,540.23,5
+266,Instant Pot Duo,742.06,522.33,3
+267,Dyson Vacuum Cleaner,698.53,395.0,3
+268,Samsung Galaxy S22,703.97,552.61,1
+269,LEGO Star Wars Set,362.69,266.9,5
+270,To Kill a Mockingbird,297.12,156.53,4
+271,Monopoly Board Game,810.31,506.67,5
+272,H&M Dress,811.06,619.44,2
+273,Fitbit Inspire 2,867.74,679.8,6
+274,The Catcher in the Rye,913.67,584.95,4
+275,Philips Air Fryer,513.79,351.44,3
+276,1984 by George Orwell,504.01,277.26,4
+277,Dyson Vacuum Cleaner,799.3,637.32,3
+278,Dyson Vacuum Cleaner,651.71,371.15,3
+279,The Catcher in the Rye,703.46,550.68,4
+280,Nespresso Coffee Machine,796.81,553.7,3
+281,Dyson Vacuum Cleaner,890.56,607.65,3
+282,H&M Dress,341.31,223.15,2
+283,Play-Doh Fun Factory,378.71,215.56,5
+284,Fisher-Price Learning Table,98.51,54.47,5
+285,Nivea Body Lotion,580.39,328.59,6
+286,Nivea Body Lotion,40.76,22.66,6
+287,Puma Hoodie,468.27,343.65,2
+288,Dove Shampoo,544.93,329.7,6
+289,Sapiens: A Brief History of Humankind,290.11,150.09,4
+290,Apple Watch Series 8,592.88,468.81,1
+291,JBL Bluetooth Speaker,35.35,27.05,1
+292,Dell XPS 13,42.16,32.81,1
+293,Adidas T-Shirt,823.49,657.53,2
+294,Under Armour Shorts,363.39,200.65,2
+295,Tefal Non-Stick Pan,131.43,81.34,3
+296,iPhone 14,524.63,381.65,1
+297,The Great Gatsby,771.14,546.59,4
+298,Bose Sleepbuds,219.74,120.02,6
+299,The Hobbit,624.78,465.3,4
+300,Philips Sonicare Toothbrush,89.92,51.01,6
+301,Sony Alpha Camera,56.42,32.0,1
+302,iPhone 14,533.7,352.82,1
+303,GoPro HERO10,542.93,368.04,1
+304,Puma Hoodie,639.24,430.86,2
+305,Nivea Body Lotion,727.46,383.7,6
+306,Under Armour Shorts,975.97,744.9,2
+307,Levi’s 501 Jeans,518.72,300.69,2
+308,Barbie Dreamhouse,326.34,175.85,5
+309,To Kill a Mockingbird,796.21,610.39,4
+310,The Catcher in the Rye,274.48,215.93,4
+311,IKEA Dining Set,441.78,335.15,3
+312,Zara Slim Fit Blazer,83.06,61.7,2
+313,Nivea Body Lotion,30.22,21.05,6
+314,Fisher-Price Learning Table,962.84,640.54,5
+315,Hot Wheels Track Set,836.8,440.24,5
+316,The Great Gatsby,697.49,434.21,4
+317,Uniqlo Down Jacket,411.91,252.01,2
+318,IKEA Dining Set,177.43,102.54,3
+319,Zara Slim Fit Blazer,160.65,115.19,2
+320,Dell XPS 13,253.99,164.78,1
+321,Zara Slim Fit Blazer,551.48,289.15,2
+322,Sony WH-1000XM5,716.02,405.31,1
+323,Sony Alpha Camera,661.9,466.62,1
+324,Instant Pot Duo,283.53,148.24,3
+325,Oral-B Electric Toothbrush,955.09,721.44,6
+326,Harry Potter and the Sorcerer's Stone,739.21,479.41,4
+327,H&M Dress,556.58,358.54,2
+328,Sony WH-1000XM5,613.66,415.89,1
+329,Nike Air Max,422.5,315.78,2
+330,Philips Sonicare Toothbrush,251.49,151.99,6
+331,Sapiens: A Brief History of Humankind,359.19,252.66,4
+332,Gillette Razor,759.06,508.36,6
+333,The Hobbit,19.32,11.21,4
+334,Rubik's Cube,120.49,92.0,5
+335,The Great Gatsby,50.77,37.53,4
+336,Nespresso Coffee Machine,45.53,31.76,3
+337,Oral-B Electric Toothbrush,856.18,646.57,6
+338,JBL Bluetooth Speaker,705.14,536.04,1
+339,Play-Doh Fun Factory,476.8,339.72,5
+340,Instant Pot Duo,102.34,76.87,3
+341,Uniqlo Down Jacket,494.16,350.48,2
+342,Bose Sleepbuds,476.1,335.19,6
+343,Sony Alpha Camera,177.34,121.58,1
+344,Sapiens: A Brief History of Humankind,436.68,316.95,4
+345,iPhone 14,401.51,219.86,1
+346,Gap Sweatshirt,617.77,472.14,2
+347,Nerf Elite Blaster,636.92,485.05,5
+348,LEGO Star Wars Set,50.08,25.48,5
+349,Bose Sleepbuds,377.74,282.45,6
+350,Nerf Elite Blaster,627.73,338.13,5
+351,Oral-B Electric Toothbrush,505.62,303.64,6
+352,Fitbit Inspire 2,857.21,619.81,6
+353,Olaplex Hair Perfector,660.4,362.05,6
+354,The Great Gatsby,167.12,124.57,4
+355,Instant Pot Duo,75.22,56.39,3
+356,Bose Sleepbuds,644.21,420.18,6
+357,Bose Sleepbuds,31.38,15.75,6
+358,KitchenAid Stand Mixer,587.85,344.55,3
+359,iPhone 14,940.53,644.34,1
+360,Bose Sleepbuds,577.6,458.82,6
+361,Sapiens: A Brief History of Humankind,391.23,269.77,4
+362,Fisher-Price Learning Table,645.07,372.81,5
+363,Hot Wheels Track Set,460.96,318.16,5
+364,Zara Slim Fit Blazer,547.89,362.7,2
+365,Uniqlo Down Jacket,941.76,691.21,2
+366,Play-Doh Fun Factory,389.17,207.08,5
+367,Monopoly Board Game,961.38,700.18,5
+368,Harry Potter and the Sorcerer's Stone,905.82,600.0,4
+369,Philips Air Fryer,199.81,157.63,3
+370,Puma Hoodie,74.01,44.6,2
+371,IKEA Dining Set,105.27,72.61,3
+372,Harry Potter and the Sorcerer's Stone,23.13,18.03,4
+373,Fisher-Price Learning Table,98.97,52.53,5
+374,Oral-B Electric Toothbrush,684.59,534.78,6
+375,KitchenAid Stand Mixer,75.83,53.56,3
+376,Fisher-Price Learning Table,322.38,167.75,5
+377,LEGO Star Wars Set,845.65,499.18,5
+378,iPhone 14,28.16,20.06,1
+379,Nespresso Coffee Machine,815.4,424.18,3
+380,Gillette Razor,285.45,192.58,6
+381,Instant Pot Duo,122.57,74.0,3
+382,Rubik's Cube,698.25,479.19,5
+383,Olaplex Hair Perfector,630.8,324.06,6
+384,Harry Potter and the Sorcerer's Stone,878.08,668.62,4
+385,Sony Alpha Camera,736.4,583.26,1
+386,Hot Wheels Track Set,804.46,636.06,5
+387,Puma Hoodie,285.62,207.04,2
+388,Nike Air Max,181.55,97.86,2
+389,Apple Watch Series 8,751.86,546.96,1
+390,The Catcher in the Rye,807.8,409.86,4
+391,Hot Wheels Track Set,990.55,501.85,5
+392,Philips Air Fryer,415.55,248.12,3
+393,Sony Alpha Camera,375.16,242.58,1
+394,1984 by George Orwell,777.53,568.47,4
+395,Cuisinart Blender,344.1,242.59,3
+396,Uniqlo Down Jacket,931.1,590.1,2
+397,Adidas T-Shirt,859.12,500.08,2
+398,IKEA Dining Set,431.85,345.11,3
+399,MacBook Air,752.12,472.22,1
+400,Uniqlo Down Jacket,755.77,480.23,2
+401,Barbie Dreamhouse,107.61,59.09,5
+402,Gillette Razor,903.04,666.84,6
+403,IKEA Dining Set,507.73,359.53,3
+404,KitchenAid Stand Mixer,827.33,468.46,3
+405,Puma Hoodie,323.45,169.72,2
+406,Apple Watch Series 8,896.05,630.95,1
+407,LEGO Star Wars Set,392.26,273.15,5
+408,MacBook Air,15.78,9.18,1
+409,The Hobbit,905.86,711.33,4
+410,Harry Potter and the Sorcerer's Stone,95.83,52.26,4
+411,Gillette Razor,322.72,203.22,6
+412,Zara Slim Fit Blazer,950.31,744.17,2
+413,Zara Slim Fit Blazer,950.85,595.15,2
+414,Gap Sweatshirt,575.57,398.04,2
+415,Oral-B Electric Toothbrush,633.68,392.42,6
+416,The Hobbit,451.2,262.72,4
+417,GoPro HERO10,296.74,235.97,1
+418,Nivea Body Lotion,332.02,206.78,6
+419,Dove Shampoo,674.16,517.91,6
+420,Sony Alpha Camera,753.61,428.79,1
+421,Nike Air Max,792.62,446.98,2
+422,Nerf Elite Blaster,790.67,402.72,5
+423,Dell XPS 13,95.75,66.59,1
+424,The Hobbit,496.95,303.42,4
+425,IKEA Dining Set,62.27,47.28,3
+426,IKEA Dining Set,551.78,354.22,3
+427,Gillette Razor,444.32,351.22,6
+428,Cuisinart Blender,888.27,493.57,3
+429,Fisher-Price Learning Table,354.16,269.37,5
+430,Zara Slim Fit Blazer,121.48,89.04,2
+431,Sapiens: A Brief History of Humankind,147.28,107.7,4
+432,Barbie Dreamhouse,762.7,574.64,5
+433,The Hobbit,620.13,451.65,4
+434,1984 by George Orwell,105.62,72.65,4
+435,Gap Sweatshirt,88.69,47.84,2
+436,Fitbit Inspire 2,702.46,358.08,6
+437,Dyson Vacuum Cleaner,77.4,60.08,3
+438,Nike Air Max,822.75,563.58,2
+439,Rubik's Cube,707.71,522.97,5
+440,Gillette Razor,85.94,55.38,6
+441,Monopoly Board Game,89.41,47.85,5
+442,Oral-B Electric Toothbrush,986.71,530.41,6
+443,Barbie Dreamhouse,377.4,266.32,5
+444,Adidas T-Shirt,373.79,235.15,2
+445,Oral-B Electric Toothbrush,813.74,455.82,6
+446,Bose Sleepbuds,947.51,613.49,6
+447,Harry Potter and the Sorcerer's Stone,986.07,512.03,4
+448,To Kill a Mockingbird,754.61,509.05,4
+449,Samsung Galaxy S22,379.38,220.31,1
+450,Hot Wheels Track Set,88.08,65.11,5
+451,Sapiens: A Brief History of Humankind,778.26,461.59,4
+452,MacBook Air,560.61,356.87,1
+453,1984 by George Orwell,427.1,215.04,4
+454,Play-Doh Fun Factory,906.82,473.12,5
+455,Olaplex Hair Perfector,115.64,71.44,6
+456,Instant Pot Duo,495.16,318.87,3
+457,Fisher-Price Learning Table,16.3,11.08,5
+458,Puma Hoodie,471.32,276.9,2
+459,To Kill a Mockingbird,61.02,43.23,4
+460,To Kill a Mockingbird,123.22,93.41,4
+461,Dove Shampoo,121.94,89.5,6
+462,Gap Sweatshirt,650.96,333.22,2
+463,Philips Sonicare Toothbrush,747.31,481.38,6
+464,Gap Sweatshirt,585.45,311.15,2
+465,Philips Air Fryer,962.36,551.06,3
+466,Harry Potter and the Sorcerer's Stone,378.0,300.89,4
+467,Harry Potter and the Sorcerer's Stone,289.28,157.01,4
+468,Nespresso Coffee Machine,869.26,564.73,3
+469,iPhone 14,227.48,155.93,1
+470,Olaplex Hair Perfector,963.41,684.73,6
+471,Instant Pot Duo,17.09,11.41,3
+472,Nivea Body Lotion,970.03,487.86,6
+473,Fisher-Price Learning Table,47.94,28.67,5
+474,The Great Gatsby,891.69,584.34,4
+475,Philips Sonicare Toothbrush,530.06,279.0,6
+476,Under Armour Shorts,993.0,600.95,2
+477,Fitbit Inspire 2,78.43,40.0,6
+478,Nerf Elite Blaster,556.09,291.15,5
+479,Harry Potter and the Sorcerer's Stone,969.46,600.17,4
+480,Instant Pot Duo,525.48,283.66,3
+481,Fisher-Price Learning Table,631.25,423.1,5
+482,The Great Gatsby,697.27,492.86,4
+483,Bose Sleepbuds,457.27,338.46,6
+484,Apple Watch Series 8,629.42,352.5,1
+485,Sony WH-1000XM5,586.39,322.66,1
+486,Puma Hoodie,901.65,479.11,2
+487,To Kill a Mockingbird,50.22,34.7,4
+488,Sony WH-1000XM5,284.56,202.59,1
+489,Instant Pot Duo,950.66,484.34,3
+490,The Hobbit,890.81,695.6,4
+491,Philips Air Fryer,458.38,236.34,3
+492,Dyson Vacuum Cleaner,622.03,412.03,3
+493,Samsung Galaxy S22,280.99,200.27,1
+494,1984 by George Orwell,192.18,146.3,4
+495,Fitbit Inspire 2,466.38,333.1,6
+496,Fisher-Price Learning Table,356.59,264.06,5
+497,GoPro HERO10,585.74,352.52,1
+498,Apple Watch Series 8,82.35,61.31,1
+499,Olaplex Hair Perfector,974.52,510.68,6
+500,The Catcher in the Rye,986.28,757.9,4
+501,To Kill a Mockingbird,699.67,464.78,4
+502,Dyson Vacuum Cleaner,538.42,401.22,3
+503,Philips Sonicare Toothbrush,312.98,198.96,6
+504,Nivea Body Lotion,814.73,564.67,6
+505,1984 by George Orwell,686.31,451.54,4
+506,Instant Pot Duo,166.8,120.01,3
+507,Sony WH-1000XM5,911.37,478.0,1
+508,Adidas T-Shirt,823.42,426.62,2
+509,Play-Doh Fun Factory,950.05,545.45,5
+510,iPhone 14,727.09,398.35,1
+511,The Great Gatsby,615.35,468.61,4
+512,Rubik's Cube,421.15,238.27,5
+513,Puma Hoodie,933.06,739.69,2
+514,Adidas T-Shirt,866.73,520.96,2
+515,Dyson Vacuum Cleaner,49.99,27.73,3
+516,Hot Wheels Track Set,31.24,23.02,5
+517,Philips Air Fryer,379.58,264.8,3
+518,Dell XPS 13,811.5,527.04,1
+519,Nivea Body Lotion,987.34,658.17,6
+520,Dove Shampoo,154.66,110.7,6
+521,Gillette Razor,596.16,338.94,6
+522,Play-Doh Fun Factory,383.99,306.77,5
+523,Olaplex Hair Perfector,970.06,768.71,6
+524,Apple Watch Series 8,842.91,585.9,1
+525,KitchenAid Stand Mixer,839.14,469.8,3
+526,LEGO Star Wars Set,471.35,331.86,5
+527,Instant Pot Duo,417.75,217.92,3
+528,Play-Doh Fun Factory,277.04,141.07,5
+529,Instant Pot Duo,61.09,35.27,3
+530,Uniqlo Down Jacket,865.4,552.81,2
+531,IKEA Dining Set,813.84,618.91,3
+532,Bose Sleepbuds,999.72,717.95,6
+533,Gap Sweatshirt,996.65,720.39,2
+534,Dyson Vacuum Cleaner,557.65,350.01,3
+535,Play-Doh Fun Factory,770.14,465.0,5
+536,Barbie Dreamhouse,945.04,577.71,5
+537,Barbie Dreamhouse,850.4,677.17,5
+538,To Kill a Mockingbird,251.11,128.58,4
+539,GoPro HERO10,453.29,344.55,1
+540,Rubik's Cube,133.51,89.93,5
+541,Puma Hoodie,954.28,602.71,2
+542,Fisher-Price Learning Table,608.14,436.39,5
+543,The Great Gatsby,232.5,150.2,4
+544,Olaplex Hair Perfector,673.34,513.1,6
+545,Puma Hoodie,620.04,477.56,2
+546,Harry Potter and the Sorcerer's Stone,361.37,226.4,4
+547,Philips Sonicare Toothbrush,117.99,68.79,6
+548,H&M Dress,673.22,456.24,2
+549,Dyson Vacuum Cleaner,522.71,404.43,3
+550,MacBook Air,773.46,435.61,1
+551,iPhone 14,522.56,358.94,1
+552,The Great Gatsby,852.92,588.06,4
+553,Oral-B Electric Toothbrush,554.15,398.95,6
+554,Apple Watch Series 8,563.13,303.79,1
+555,Gillette Razor,877.27,627.03,6
+556,Nivea Body Lotion,406.47,314.08,6
+557,To Kill a Mockingbird,138.35,76.63,4
+558,Harry Potter and the Sorcerer's Stone,33.64,19.22,4
+559,1984 by George Orwell,756.36,598.6,4
+560,Sony WH-1000XM5,622.21,344.89,1
+561,The Hobbit,705.56,533.63,4
+562,Samsung Galaxy S22,216.9,140.48,1
+563,To Kill a Mockingbird,140.69,80.78,4
+564,Monopoly Board Game,19.47,14.82,5
+565,Nivea Body Lotion,353.83,224.18,6
+566,1984 by George Orwell,591.97,387.41,4
+567,Nike Air Max,395.28,240.24,2
+568,Olaplex Hair Perfector,440.29,298.47,6
+569,Bose Sleepbuds,904.64,496.7,6
+570,The Great Gatsby,351.51,217.0,4
+571,Tefal Non-Stick Pan,516.42,408.4,3
+572,1984 by George Orwell,784.73,453.13,4
+573,Olaplex Hair Perfector,399.56,278.5,6
+574,Gap Sweatshirt,623.98,372.86,2
+575,Dove Shampoo,863.05,631.79,6
+576,Under Armour Shorts,949.77,512.17,2
+577,GoPro HERO10,151.34,119.7,1
+578,Play-Doh Fun Factory,926.95,589.67,5
+579,Dove Shampoo,494.66,282.36,6
+580,Harry Potter and the Sorcerer's Stone,261.95,136.75,4
+581,Dell XPS 13,461.84,254.44,1
+582,Monopoly Board Game,980.13,642.9,5
+583,The Catcher in the Rye,495.16,297.64,4
+584,IKEA Dining Set,332.11,248.64,3
+585,1984 by George Orwell,635.23,399.73,4
+586,H&M Dress,243.94,140.17,2
+587,Adidas T-Shirt,80.48,55.14,2
+588,Dyson Vacuum Cleaner,133.24,94.87,3
+589,GoPro HERO10,132.41,72.84,1
+590,Fisher-Price Learning Table,156.14,85.92,5
+591,The Great Gatsby,143.13,73.14,4
+592,Adidas T-Shirt,642.67,463.31,2
+593,MacBook Air,185.97,130.02,1
+594,Nespresso Coffee Machine,348.94,224.16,3
+595,Fitbit Inspire 2,897.3,675.89,6
+596,Under Armour Shorts,476.59,353.49,2
+597,KitchenAid Stand Mixer,669.22,452.13,3
+598,The Hobbit,176.46,134.19,4
+599,Rubik's Cube,196.33,110.29,5
+600,Adidas T-Shirt,45.66,24.36,2
+601,Under Armour Shorts,173.09,100.55,2
+602,The Great Gatsby,282.2,145.93,4
+603,Oral-B Electric Toothbrush,181.13,119.43,6
+604,GoPro HERO10,93.26,72.83,1
+605,Barbie Dreamhouse,125.03,63.99,5
+606,Puma Hoodie,463.47,248.71,2
+607,Rubik's Cube,210.3,133.68,5
+608,Levi’s 501 Jeans,367.45,286.67,2
+609,Nerf Elite Blaster,505.9,300.93,5
+610,Philips Air Fryer,691.94,451.26,3
+611,Under Armour Shorts,44.12,22.61,2
+612,Rubik's Cube,800.41,435.83,5
+613,JBL Bluetooth Speaker,629.76,501.28,1
+614,Instant Pot Duo,86.35,68.18,3
+615,Cuisinart Blender,874.21,438.4,3
+616,JBL Bluetooth Speaker,921.27,723.7,1
+617,Play-Doh Fun Factory,65.77,45.5,5
+618,The Great Gatsby,280.49,213.28,4
+619,Apple Watch Series 8,807.17,513.7,1
+620,Fisher-Price Learning Table,749.52,490.69,5
+621,Apple Watch Series 8,188.6,121.96,1
+622,MacBook Air,213.3,149.32,1
+623,Puma Hoodie,373.62,202.46,2
+624,Fisher-Price Learning Table,487.1,247.93,5
+625,To Kill a Mockingbird,620.16,367.37,4
+626,Puma Hoodie,372.07,264.69,2
+627,Dell XPS 13,465.22,260.78,1
+628,Oral-B Electric Toothbrush,748.73,525.63,6
+629,Apple Watch Series 8,41.5,32.83,1
+630,Sony WH-1000XM5,256.17,135.3,1
+631,LEGO Star Wars Set,714.78,501.62,5
+632,Monopoly Board Game,895.73,567.11,5
+633,Levi’s 501 Jeans,514.12,390.96,2
+634,1984 by George Orwell,534.45,295.63,4
+635,H&M Dress,111.64,79.02,2
+636,Nespresso Coffee Machine,450.18,338.28,3
+637,Samsung Galaxy S22,534.95,419.07,1
+638,Philips Sonicare Toothbrush,246.26,173.61,6
+639,Dell XPS 13,272.9,177.15,1
+640,JBL Bluetooth Speaker,380.4,260.71,1
+641,Nike Air Max,24.97,18.99,2
+642,Dove Shampoo,325.47,218.45,6
+643,Fitbit Inspire 2,215.39,109.66,6
+644,Olaplex Hair Perfector,330.86,257.83,6
+645,Gap Sweatshirt,124.16,87.76,2
+646,Samsung Galaxy S22,891.07,626.38,1
+647,Puma Hoodie,595.62,336.35,2
+648,Nerf Elite Blaster,680.71,474.91,5
+649,Nerf Elite Blaster,790.23,488.49,5
+650,Nike Air Max,500.95,348.35,2
+651,Nivea Body Lotion,91.49,48.67,6
+652,JBL Bluetooth Speaker,539.42,376.17,1
+653,Zara Slim Fit Blazer,588.91,471.02,2
+654,Puma Hoodie,746.71,384.16,2
+655,Uniqlo Down Jacket,434.5,344.62,2
+656,Nespresso Coffee Machine,131.94,82.08,3
+657,Nerf Elite Blaster,287.36,218.75,5
+658,Oral-B Electric Toothbrush,366.27,269.1,6
+659,The Catcher in the Rye,647.69,434.02,4
+660,Gillette Razor,572.92,413.38,6
+661,The Catcher in the Rye,359.32,274.36,4
+662,KitchenAid Stand Mixer,986.58,612.91,3
+663,Puma Hoodie,607.75,363.5,2
+664,Cuisinart Blender,241.04,168.8,3
+665,Dyson Vacuum Cleaner,106.27,78.89,3
+666,iPhone 14,157.09,114.47,1
+667,Play-Doh Fun Factory,249.73,184.64,5
+668,The Great Gatsby,164.88,103.99,4
+669,Under Armour Shorts,190.63,142.09,2
+670,The Hobbit,288.67,154.75,4
+671,Gillette Razor,177.51,117.75,6
+672,Sapiens: A Brief History of Humankind,897.28,450.19,4
+673,Oral-B Electric Toothbrush,84.83,50.68,6
+674,Barbie Dreamhouse,526.89,321.37,5
+675,Philips Sonicare Toothbrush,413.34,255.8,6
+676,1984 by George Orwell,982.47,696.22,4
+677,The Catcher in the Rye,116.48,71.82,4
+678,Philips Sonicare Toothbrush,400.87,254.4,6
+679,Dyson Vacuum Cleaner,969.62,553.91,3
+680,Fisher-Price Learning Table,866.18,530.08,5
+681,Dell XPS 13,817.99,464.77,1
+682,Levi’s 501 Jeans,261.61,136.55,2
+683,The Catcher in the Rye,175.03,119.2,4
+684,Uniqlo Down Jacket,670.3,469.52,2
+685,iPhone 14,929.73,637.65,1
+686,Puma Hoodie,558.98,357.22,2
+687,Apple Watch Series 8,573.75,352.25,1
+688,Olaplex Hair Perfector,283.58,215.24,6
+689,Nespresso Coffee Machine,770.65,505.33,3
+690,The Great Gatsby,191.11,123.03,4
+691,Samsung Galaxy S22,327.06,166.05,1
+692,Gap Sweatshirt,428.31,258.0,2
+693,To Kill a Mockingbird,510.07,313.21,4
+694,Instant Pot Duo,246.2,152.56,3
+695,Olaplex Hair Perfector,119.26,80.39,6
+696,To Kill a Mockingbird,612.57,404.35,4
+697,iPhone 14,292.19,199.38,1
+698,KitchenAid Stand Mixer,583.33,425.52,3
+699,Puma Hoodie,158.59,117.97,2
+700,Dyson Vacuum Cleaner,483.73,346.08,3
+701,Dyson Vacuum Cleaner,534.93,420.81,3
+702,Play-Doh Fun Factory,56.56,28.59,5
+703,Nespresso Coffee Machine,339.92,189.92,3
+704,Dyson Vacuum Cleaner,138.74,69.68,3
+705,To Kill a Mockingbird,68.06,47.25,4
+706,Nike Air Max,990.01,761.72,2
+707,1984 by George Orwell,325.74,186.66,4
+708,The Great Gatsby,810.83,630.92,4
+709,Sony Alpha Camera,258.37,133.86,1
+710,1984 by George Orwell,683.1,533.04,4
+711,Play-Doh Fun Factory,761.43,461.04,5
+712,Play-Doh Fun Factory,597.66,317.01,5
+713,Samsung Galaxy S22,474.22,306.23,1
+714,Oral-B Electric Toothbrush,414.78,239.34,6
+715,Levi’s 501 Jeans,352.12,206.15,2
+716,Nike Air Max,929.88,550.66,2
+717,The Catcher in the Rye,831.47,616.04,4
+718,The Hobbit,965.2,638.72,4
+719,Olaplex Hair Perfector,128.68,76.36,6
+720,The Catcher in the Rye,732.21,500.17,4
+721,Uniqlo Down Jacket,938.65,670.99,2
+722,Dyson Vacuum Cleaner,185.33,107.82,3
+723,Hot Wheels Track Set,71.16,44.41,5
+724,Instant Pot Duo,742.42,398.36,3
+725,Philips Air Fryer,576.6,319.64,3
+726,Under Armour Shorts,842.62,593.49,2
+727,Philips Air Fryer,144.07,79.88,3
+728,Olaplex Hair Perfector,796.29,523.6,6
+729,JBL Bluetooth Speaker,205.62,146.55,1
+730,Sapiens: A Brief History of Humankind,167.84,89.3,4
+731,Samsung Galaxy S22,168.44,112.89,1
+732,Barbie Dreamhouse,815.5,470.52,5
+733,The Catcher in the Rye,666.87,526.08,4
+734,IKEA Dining Set,525.45,338.95,3
+735,Play-Doh Fun Factory,362.04,268.56,5
+736,1984 by George Orwell,877.81,583.8,4
+737,Dove Shampoo,395.48,202.89,6
+738,Oral-B Electric Toothbrush,817.52,564.04,6
+739,Nivea Body Lotion,441.94,347.11,6
+740,Gillette Razor,380.06,258.62,6
+741,IKEA Dining Set,465.37,347.05,3
+742,Samsung Galaxy S22,304.87,233.31,1
+743,Harry Potter and the Sorcerer's Stone,748.87,425.68,4
+744,IKEA Dining Set,505.21,284.74,3
+745,Gillette Razor,236.05,161.29,6
+746,JBL Bluetooth Speaker,900.08,561.03,1
+747,Monopoly Board Game,386.97,290.99,5
+748,Monopoly Board Game,545.84,420.3,5
+749,Nerf Elite Blaster,906.94,549.63,5
+750,Oral-B Electric Toothbrush,626.12,357.55,6
+751,Fisher-Price Learning Table,121.31,89.06,5
+752,Puma Hoodie,940.13,547.57,2
+753,Harry Potter and the Sorcerer's Stone,629.57,470.15,4
+754,The Catcher in the Rye,338.23,212.11,4
+755,Bose Sleepbuds,143.58,100.54,6
+756,Adidas T-Shirt,795.06,420.32,2
+757,Tefal Non-Stick Pan,621.97,427.39,3
+758,Nespresso Coffee Machine,535.79,340.51,3
+759,Play-Doh Fun Factory,894.42,604.61,5
+760,Apple Watch Series 8,789.65,434.63,1
+761,Dyson Vacuum Cleaner,155.92,112.43,3
+762,MacBook Air,315.16,239.16,1
+763,To Kill a Mockingbird,252.25,142.53,4
+764,Samsung Galaxy S22,745.23,394.01,1
+765,The Hobbit,38.36,19.45,4
+766,H&M Dress,572.04,396.19,2
+767,Adidas T-Shirt,763.65,520.91,2
+768,Bose Sleepbuds,877.38,582.59,6
+769,Bose Sleepbuds,345.37,196.72,6
+770,Nerf Elite Blaster,822.15,507.49,5
+771,Instant Pot Duo,115.08,78.06,3
+772,Rubik's Cube,847.22,549.87,5
+773,The Catcher in the Rye,131.85,105.0,4
+774,Monopoly Board Game,400.3,216.54,5
+775,Dell XPS 13,798.31,565.64,1
+776,The Great Gatsby,154.17,95.79,4
+777,Nivea Body Lotion,233.11,146.5,6
+778,Zara Slim Fit Blazer,723.64,517.6,2
+779,Fitbit Inspire 2,721.44,510.59,6
+780,Instant Pot Duo,642.94,512.67,3
+781,The Great Gatsby,695.48,374.53,4
+782,The Catcher in the Rye,545.01,289.53,4
+783,Sony WH-1000XM5,255.54,183.3,1
+784,Philips Air Fryer,348.97,235.04,3
+785,Uniqlo Down Jacket,185.69,108.12,2
+786,The Great Gatsby,908.91,476.11,4
+787,The Hobbit,585.47,307.78,4
+788,Dell XPS 13,403.85,310.26,1
+789,Fisher-Price Learning Table,464.7,259.1,5
+790,Under Armour Shorts,947.55,565.7,2
+791,Olaplex Hair Perfector,157.58,89.5,6
+792,Philips Air Fryer,588.3,356.8,3
+793,The Great Gatsby,508.36,264.77,4
+794,The Hobbit,613.4,402.22,4
+795,Gillette Razor,23.02,11.98,6
+796,Under Armour Shorts,872.76,645.94,2
+797,Rubik's Cube,932.46,531.61,5
+798,The Catcher in the Rye,567.31,375.56,4
+799,H&M Dress,698.17,533.42,2
+800,Nivea Body Lotion,922.89,641.65,6
+801,Sony WH-1000XM5,708.7,467.66,1
+802,Barbie Dreamhouse,156.78,93.64,5
+803,Nespresso Coffee Machine,578.41,346.99,3
+804,1984 by George Orwell,608.68,426.59,4
+805,Zara Slim Fit Blazer,427.01,340.86,2
+806,GoPro HERO10,737.76,515.36,1
+807,Philips Air Fryer,934.7,623.76,3
+808,Zara Slim Fit Blazer,925.94,665.93,2
+809,Uniqlo Down Jacket,453.59,290.1,2
+810,KitchenAid Stand Mixer,117.67,60.96,3
+811,Samsung Galaxy S22,984.92,658.61,1
+812,Fitbit Inspire 2,839.7,661.09,6
